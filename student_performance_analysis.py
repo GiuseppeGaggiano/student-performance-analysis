@@ -1,5 +1,3 @@
-
-# -*- coding: utf-8 -*-
 # Analisi del rendimento accademico tramite Machine Learning
 
 # =====================================================
