@@ -1,7 +1,6 @@
 
 # -*- coding: utf-8 -*-
 # Analisi del rendimento accademico tramite Machine Learning
-# Codice ispirato alla tesi di Giuseppe Gaggiano
 
 # =====================================================
 # SEZIONE 1 - Importazione delle librerie necessarie
